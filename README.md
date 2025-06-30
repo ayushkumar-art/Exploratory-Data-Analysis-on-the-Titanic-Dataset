@@ -69,5 +69,5 @@ The Titanic dataset reveals how **socio-economic status, gender, and age** playe
 ## 🤝 Credits
 
 - Dataset Source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic)
-- Created by: *Ayush Kumar* (Replace this with your name or GitHub link)
+- Created by: *Ayush Kumar* (https://github.com/ayushkumar-art/Exploratory-Data-Analysis-on-the-Titanic-Dataset/tree/main)
 
